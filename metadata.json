@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Caply v2 Simplified",
+  "description": "The free growth system for freelancers. Track workload, simulate income decisions, and grow your business with a SaaS-ready architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
