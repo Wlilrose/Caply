@@ -16,7 +16,7 @@ Caply is designed specifically for freelancers who struggle with burnout, overco
 
 ## Demo
 
-- Live app: [Open Caply Live App](https://ais-pre-zvhjqciqwlejvctanlvpxj-418072178062.asia-southeast1.run.app)
+- Live app: [Open Caply Live App](https://caply-workload.netlify.app/)
 - AI Studio project: [View Project on AI Studio Build](https://ai.studio/build)
 
 ## Screenshots
