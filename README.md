@@ -21,7 +21,8 @@ Caply is designed specifically for freelancers who struggle with burnout, overco
 
 ## Screenshots
 
-*(Add screenshots of your actual app dashboard, contract simulator, and mobile install prompt here to customize your repository!)*
+<img width="1341" height="996" alt="image" src="https://github.com/user-attachments/assets/9ea809cc-4de8-405a-8489-04a79e33e02c" />
+
 
 ## Tech Stack
 
